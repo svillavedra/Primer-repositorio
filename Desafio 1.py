@@ -1,5 +1,3 @@
-print("Cualquier cosa")
-print("Lo que vos quieras")
 from random import randint
 calificaciones=[]
 for i in range(5):
